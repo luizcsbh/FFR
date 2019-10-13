@@ -1,0 +1,9 @@
+{
+  "name": "redux-shopping-cart",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react-native-elements": "^1.1.0",
+    "react-router-dom": "^5.0.1"
+  }
+}
